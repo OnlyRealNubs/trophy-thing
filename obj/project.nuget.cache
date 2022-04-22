@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZatBXTw/UgeVYwc2Q4FKNm74z8YDpHgSna0QYHpHnemdyiKQxxgiCmn6sKUqvBUKaiX62ZF1c4ZzHOx40Mut3w==",
+  "success": true,
+  "projectFilePath": "G:\\dev\\Projects\\Others\\Console\\Trophie\\Trophie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryland\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
